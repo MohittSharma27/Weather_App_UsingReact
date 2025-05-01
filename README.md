@@ -20,8 +20,6 @@ A sleek and responsive Weather App built using React.js, designed to deliver rea
 
 # 🔧 Tech Stack
 Frontend: React.js, JavaScript, HTML, CSS
-
-# APIs: OpenWeatherMap API
-
-# Geolocation: HTML Geolocation API
+APIs: OpenWeatherMap API
+Geolocation: HTML Geolocation API
 
