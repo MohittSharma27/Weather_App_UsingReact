@@ -8,7 +8,7 @@ A sleek and responsive Weather App built using React.js, designed to deliver rea
 
 
 # 🚀 Features
--- 📍 Live Location Detection
+- 📍 Live Location Detection
 Automatically detects and displays weather data for your current geographical location using the HTML5 Geolocation API.
 
 -- 🌐 City Search Functionality
