@@ -33,7 +33,15 @@ A sleek and responsive Weather App built using React.js, designed to deliver rea
 &nbsp;&nbsp;&nbsp;Proper UI feedback for invalid inputs, location access denial, or API errors.
 
 # 🔧 Tech Stack
-Frontend: React.js, JavaScript, HTML, CSS
-APIs: OpenWeatherMap API
-Geolocation: HTML Geolocation API
+- React.js – UI Library
+
+- HTML & CSS – Markup & Styling
+
+- JavaScript (ES6+) – Core Logic
+
+- OpenWeatherMap API – Weather Data Source
+
+- Geolocation API – Location Detection
+
+- Moment.js / Native Date Object – Date & Time Formatting (optional)
 
