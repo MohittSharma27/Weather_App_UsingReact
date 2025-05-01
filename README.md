@@ -8,15 +8,29 @@ A sleek and responsive Weather App built using React.js, designed to deliver rea
 
 
 # 🚀 Features
-📍 Live Location Access: Automatically detects and uses the user's current geographical location to display relevant weather data.
+-- 📍 Live Location Detection
+Automatically detects and displays weather data for your current geographical location using the HTML5 Geolocation API.
 
-🌐 Weather by City Search: Allows users to search for weather conditions in any city around the globe.
+-- 🌐 City Search Functionality
+Users can manually search for any city worldwide and instantly view its weather details.
 
-🌡️ Real-Time Weather Updates: Fetches current temperature, humidity, weather conditions, wind speed, and more.
+-- 🌡️ Real-Time Weather Data
+Displays real-time temperature, humidity, wind speed, and weather conditions using API data.
 
-📱 Responsive UI: Optimized for all screen sizes — from mobile devices to desktops — using modern CSS and responsive design techniques.
+-- 📱 Fully Responsive Design
+Seamless experience across all devices — mobile, tablet, and desktop — with a modern responsive layout.
 
-🔄 Refresh Functionality: Easily refresh weather data to get the latest updates.
+-- 🌍 Country Display
+Instantly shows the user's country based on geolocation or the searched city using API data.
+
+-- 📅 Current Date & Time
+Displays the current date and optionally the time, updated in real-time for a complete contextual experience.
+
+-- 🔄 One-Click Refresh
+Users can easily refresh the weather information with a single click to get the latest updates.
+
+-- ❌ Error Handling
+Proper UI feedback for invalid inputs, location access denial, or API errors.
 
 # 🔧 Tech Stack
 Frontend: React.js, JavaScript, HTML, CSS
